@@ -184,10 +184,6 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=enott2912-beep&hide_border=true&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" alt="GitHub contribution streak" />
-</div>
-
 ---
 
 <h2 align="center" id="-contact">📬 Get in Touch</h2>
